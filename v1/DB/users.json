@@ -1,0 +1,50 @@
+{
+    "1": {
+        "id": 1,
+        "username": "uznext",
+        "email": "ubuntuuznext@gmail.com",
+        "password": "AssalomAbdulmajid",
+        "role": "Administrator",
+        "join_date": "25/11/2023"
+    },
+    "2": {
+        "id": 2,
+        "username": "hasan",
+        "email": "yunusovabdulmajid@gmail.com",
+        "password": "AssalomAbdulmajid18",
+        "role": "Moderator",
+        "join_date": "25/11/2023"
+    },
+    "3": {
+        "id": 3,
+        "username": "Ominahon",
+        "email": "ominanuriddinova2212@gmail.com",
+        "password": "ominabegim",
+        "role": "Teacher",
+        "join_date": "25/11/2023"
+    },
+    "4": {
+        "id": 4,
+        "username": "shoxdiyor04",
+        "email": "shoxdiyor04@gmail.com",
+        "password": "shoxdiyor0404",
+        "role": "Student",
+        "join_date": "25/11/2023"
+    },
+    "5": {
+        "id": 5,
+        "username": "abdulaziz05",
+        "email": "abdulaziz.abdusattorov05@gmail.com",
+        "password": "abdusattorov05",
+        "role": "Guest",
+        "join_date": "25/11/2023"
+    },
+    "6": {
+        "id": 6,
+        "username": "salokhiddin09",
+        "email": "usmonovsalokhiddin@gmail.com",
+        "password": "salokhiddin@12334AADE",
+        "role": "Guest",
+        "join_date": "25/11/2023"
+    }
+}
